@@ -119,7 +119,7 @@ public class YumoreskaBot extends TelegramLongPollingBot {
     }
 
     public String getBotToken() {
-        return "530476044:AAHTXE2g_ZP6Zn1IYSrrM0QGR2qxLSPJYzI";
+        return "token";
     }
 
 }
