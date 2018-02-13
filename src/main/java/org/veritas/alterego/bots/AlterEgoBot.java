@@ -48,7 +48,7 @@ public class AlterEgoBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotToken() {
-        return "x";
+        return "530476044:AAGd-ryBDtWr5GBvnS-y3DJYeCcIsrVsEAw";
     }
 
 }
